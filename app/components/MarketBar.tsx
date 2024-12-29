@@ -79,4 +79,4 @@ function Ticker({market}: {market: string}) {
             </div>
         </button>
     </div>
-}
+}   
